@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb34c25e-e886-463b-81b8-df9cc9d89111)# 🎨 Pinturería UTN - Primer Parcial
+# 🎨 Pinturería UTN - Primer Parcial
 
 Sistema de gestión de pinturas desarrollado para el primer parcial de la materia **\Programacion III** de UTN.
 
@@ -31,11 +31,11 @@ pintureria-utn/
 
 ### Vista general del sistema
 
-![Vista principal](img/screenshot1.png)
+![Vista principal](#)
 
 ### Modo oscuro
 
-![Modo oscuro](img/screenshot2.png)
+![Modo oscuro](capturas/vistaGeneralNegro.png)
 
 ### Exportación CSV
 
